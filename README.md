@@ -1,5 +1,6 @@
 # Test
 from graph import *
+windowSize(width, height)
 penColor( "red" ) #Цвет линий
 white, black, gray, navy, blue, cyan, green, yellow, red, orange, brown, maroon, violet, purple!
 penSize( 2 ) # Толщина линий
